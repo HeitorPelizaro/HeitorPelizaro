@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=680&lines=Heitor+Cunha+Pelizaro;DevOps+%C2%B7+Fullcycle+%C2%B7+IA;Infra+que+sobe+%E2%80%94+e+fica+no+ar" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=720&lines=Heitor+Cunha+Pelizaro;DevOps+%C2%B7+Python+%C2%B7+nuvem+%C2%B7+pipe+at%C3%A9+o+fim;Madrugada+com+alerta%3F+J%C3%A1+vi+pior+no+log" alt="Typing SVG" />
 
 <br/>
 
-**DevOps** na NovaHaus · **Ciência da Computação** (IFTM) · curiosidade + criatividade no mesmo pipeline.
+**DevOps** na NovaHaus. **Ciência da Computação** (IFTM). Deploy repetível, TLS válido, sono negociável.
 
 [![Site](https://img.shields.io/badge/Site-heitor.pelizaro.com.br-FF2D6A?style=flat-square&logo=googlechrome&logoColor=white)](https://heitor.pelizaro.com.br/)
 [![GitHub followers](https://img.shields.io/github/followers/HeitorPelizaro?style=flat-square&logo=github&label=Seguidores)](https://github.com/HeitorPelizaro?tab=followers)
@@ -15,9 +15,9 @@
 
 ### Sobre
 
-- Construo **experiências e soluções** que não parecem genéricas: da **arquitetura** ao **DNS**, passando por **CI/CD** e servidor.
-- Núcleo forte em **infra e automação**; atuo **fullcycle** em produtos web e tenho boa leitura de **IA** (como ferramenta e como sistema).
-- Fora do trabalho: **RPG de mesa**, jogos no PC, **futebol** e **vôlei**.
+- Fecho o ciclo de ponta a ponta: desenho roda em cima de **API, front, servidor, DNS** e o que mais faltar pra URL abrir sem gambiarra.
+- Forte em **infra e automação** (Python, **AWS/Azure**, **Docker**, **CI/CD**). **WordPress** quando o projeto pede. **IA** eu trato como ferramenta e como sistema, não como buzzword de slide.
+- Fora do expediente: **RPG de mesa**, jogos no PC, **futebol**, **vôlei**.
 
 ### Stack & nuvem
 
@@ -36,12 +36,12 @@
 
 | Projeto | Descrição |
 |--------|-----------|
-| [**heitor-pelizaro-page**](https://github.com/HeitorPelizaro/heitor-pelizaro-page) | Landing pessoal — [heitor.pelizaro.com.br](https://heitor.pelizaro.com.br/) (Next.js estático, PT/EN) |
-| [**Pronto-Dental**](https://github.com/HeitorPelizaro/Pronto-Dental) | Prontuário odontológico online — fullcycle até servidor e DNS |
-| [**pi2-2023**](https://github.com/HeitorPelizaro/pi2-2023) | Projeto integrador (JavaScript) |
-| [**ia-cc-2022-2-heitorpelizaro**](https://github.com/HeitorPelizaro/ia-cc-2022-2-heitorpelizaro) | Notebooks — IA & CC |
+| [**heitor-pelizaro-page**](https://github.com/HeitorPelizaro/heitor-pelizaro-page) | [heitor.pelizaro.com.br](https://heitor.pelizaro.com.br/), Next estático, PT/EN |
+| [**Pronto-Dental**](https://github.com/HeitorPelizaro/Pronto-Dental) | Prontuário odontológico. Stack completa até o que roda na VPS |
+| [**pi2-2023**](https://github.com/HeitorPelizaro/pi2-2023) | Projeto integrador, JavaScript |
+| [**ia-cc-2022-2-heitorpelizaro**](https://github.com/HeitorPelizaro/ia-cc-2022-2-heitorpelizaro) | Notebooks, IA e CC |
 
-> **NH Pong** — monitoramento interno (checks em escala, alertas, SMTP, dashboards, logs); repositório privado / interno.
+> **NH Pong:** ferramenta interna de monitoramento (muitos checks, alerta rápido, SMTP, dashboards, logs). Repo privado.
 
 ### GitHub em números
 
