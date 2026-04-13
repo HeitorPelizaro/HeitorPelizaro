@@ -5,7 +5,7 @@
 
 <br/>
 
-**Estudante / dev** · explorando **Python**, **JavaScript**, **Java** e projetos acadêmicos.
+**Dev** · explorando **Python**, **JavaScript**, **Java** e projetos acadêmicos.
 
 [![GitHub followers](https://img.shields.io/github/followers/HeitorPelizaro?style=flat-square&logo=github&label=Seguidores)](https://github.com/HeitorPelizaro?tab=followers)
 [![Repos públicos](https://img.shields.io/badge/repos-p%C3%BAblicos-10-informational?style=flat-square&logo=github)](https://github.com/HeitorPelizaro?tab=repositories)
