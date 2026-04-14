@@ -46,23 +46,25 @@
 
 ### GitHub em números
 
+*Os SVGs abaixo usam um **mirror público**: a instância oficial `github-readme-stats.vercel.app` está **pausada** no Vercel (503) e quebra os cartões no README.*
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HeitorPelizaro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=7200" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorPelizaro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Linguagens mais usadas no GitHub" />
+  <img height="165" src="https://github-readme-stats-alpha-virid.vercel.app/api?username=HeitorPelizaro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=7200" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats-alpha-virid.vercel.app/api/top-langs/?username=HeitorPelizaro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Linguagens mais usadas no GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=HeitorPelizaro&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Sequência de contribuições no GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=HeitorPelizaro&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Sequência de contribuições no GitHub" />
 </p>
 
 ### Contribuições em formato *snake*
 
-Animação gerada pelo workflow [Platane/snk](https://github.com/Platane/snk) a partir do grid de contribuições (branch `output`).
+Animação gerada pelo workflow [Platane/snk](https://github.com/Platane/snk) a partir do grid de contribuições (branch `output`). Os ficheiros são servidos via **jsDelivr** para evitar timeouts do proxy de imagens do GitHub em `raw.githubusercontent.com`.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HeitorPelizaro/HeitorPelizaro/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HeitorPelizaro/HeitorPelizaro/output/github-snake.svg" />
-  <img alt="Animação snake do gráfico de contribuições" src="https://raw.githubusercontent.com/HeitorPelizaro/HeitorPelizaro/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HeitorPelizaro/HeitorPelizaro@output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HeitorPelizaro/HeitorPelizaro@output/github-snake.svg" />
+  <img alt="Animação snake do gráfico de contribuições" src="https://cdn.jsdelivr.net/gh/HeitorPelizaro/HeitorPelizaro@output/github-snake.svg" />
 </picture>
 
 ---
