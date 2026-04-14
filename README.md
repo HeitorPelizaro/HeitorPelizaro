@@ -44,10 +44,6 @@
 
 > **NH Pong:** ferramenta interna de monitoramento (muitos checks, alerta rápido, SMTP, dashboards, logs). Repositório **privado**.
 
-### GitHub em números
-
-*Os SVGs abaixo usam um **mirror público**: a instância oficial `github-readme-stats.vercel.app` está **pausada** no Vercel (503) e quebra os cartões no README.*
-
 <p align="center">
   <img height="165" src="https://github-readme-stats-alpha-virid.vercel.app/api?username=HeitorPelizaro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=7200" alt="Estatísticas do GitHub" />
   <img height="165" src="https://github-readme-stats-alpha-virid.vercel.app/api/top-langs/?username=HeitorPelizaro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Linguagens mais usadas no GitHub" />
@@ -57,9 +53,6 @@
   <img src="https://streak-stats.demolab.com/?user=HeitorPelizaro&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Sequência de contribuições no GitHub" />
 </p>
 
-### Contribuições em formato *snake*
-
-Animação gerada pelo workflow [Platane/snk](https://github.com/Platane/snk) a partir do grid de contribuições (branch `output`). Os ficheiros são servidos via **jsDelivr** para evitar timeouts do proxy de imagens do GitHub em `raw.githubusercontent.com`.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HeitorPelizaro/HeitorPelizaro@output/github-snake-dark.svg" />
@@ -75,7 +68,7 @@ Animação gerada pelo workflow [Platane/snk](https://github.com/Platane/snk) a 
 
 [![Site](https://img.shields.io/badge/Site-heitor.pelizaro.com.br-00F0FF?style=flat-square&logo=googlechrome&logoColor=black)](https://heitor.pelizaro.com.br/)
 [![GitHub](https://img.shields.io/badge/GitHub-HeitorPelizaro-181717?style=flat-square&logo=github)](https://github.com/HeitorPelizaro)
-[![E-mail](https://img.shields.io/badge/E--mail-heitor%40pelizaro.com.br-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:heitor@pelizaro.com.br)
+[![E-mail](https://img.shields.io/badge/E--mail-heitor%40pelizaro.com.br-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:heitorpelizaro.dev@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=HeitorPelizaro&label=Visitas+ao+perfil&color=0e75b6&style=flat-square" alt="Contador de visitas ao perfil" />
 
