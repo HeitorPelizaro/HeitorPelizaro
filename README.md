@@ -4,7 +4,7 @@
 
 <br/>
 
-**DevOps** na NovaHaus · **Ciência da Computação** (IFTM). Gosto de deploy repetível, TLS que fecha na primeira, e incidente documentado.
+**DevOps** na NovaHaus · **Ciência da Computação** (IFTM). Obcecado por automações e em novas tecnologias.
 
 [![Site](https://img.shields.io/badge/Site-heitor.pelizaro.com.br-00F0FF?style=flat-square&logo=googlechrome&logoColor=black)](https://heitor.pelizaro.com.br/)
 [![GitHub followers](https://img.shields.io/github/followers/HeitorPelizaro?style=flat-square&logo=github&label=Seguidores)](https://github.com/HeitorPelizaro?tab=followers)
