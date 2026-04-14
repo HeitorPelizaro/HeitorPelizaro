@@ -16,7 +16,7 @@
 ### Sobre
 
 - Levo o ciclo **ponta a ponta**: API, front, servidor, DNS e o que faltar para a URL abrir **sem gambiarra**.
-- Forte em **infra e automação** (Python, **AWS/Azure**, **Docker**, **CI/CD**). **WordPress** quando o projeto pede. **IA** como ferramenta e como sistema — não como buzzword de slide.
+- Forte em **infra e automação** (Python, **AWS/Azure**, **Docker**, **CI/CD**). **WordPress** quando o projeto pede. **IA** como ferramenta e como sistema.
 - Fora do expediente: **RPG de mesa**, jogos no PC, **futebol**, **vôlei**.
 
 ### Stack & nuvem
@@ -38,9 +38,9 @@
 | Projeto | Descrição |
 | :--- | :--- |
 | [**heitor-pelizaro-page**](https://github.com/HeitorPelizaro/heitor-pelizaro-page) | [heitor.pelizaro.com.br](https://heitor.pelizaro.com.br/) — site pessoal estático (Next.js), **PT/EN**, gamificação e tema visual “lab” |
-| [**Pronto-Dental**](https://github.com/HeitorPelizaro/Pronto-Dental) | Prontuário odontológico: stack completa até o que roda na **VPS** |
+| [**Pronto-Dental**](https://github.com/HeitorPelizaro/Pronto-Dental) | Prontuário odontológico: stack completa até a configuração da **VPS** |
 | [**pi2-2023**](https://github.com/HeitorPelizaro/pi2-2023) | Projeto integrador (JavaScript) |
-| [**ia-cc-2022-2-heitorpelizaro**](https://github.com/HeitorPelizaro/ia-cc-2022-2-heitorpelizaro) | Notebooks — IA e Ciência da Computação |
+| [**ia-cc-2022-2-heitorpelizaro**](https://github.com/HeitorPelizaro/ia-cc-2022-2-heitorpelizaro) |IA e Ciência da Computação |
 
 > **NH Pong:** ferramenta interna de monitoramento (muitos checks, alerta rápido, SMTP, dashboards, logs). Repositório **privado**.
 
